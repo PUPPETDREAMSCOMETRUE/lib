@@ -1,0 +1,4 @@
+class Catalog {
+    val name = ""
+
+}
